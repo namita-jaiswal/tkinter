@@ -5,4 +5,4 @@ window = Tk()
 entry= Entry()
 entry.pack()
 
-window.maniloop()
+window.mainloop()
